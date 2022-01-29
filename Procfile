@@ -1,1 +1,1 @@
-web: npm start
+web: npx serve bookit-app-master
