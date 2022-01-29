@@ -45,6 +45,7 @@ class App extends React.PureComponent {
               }
               <RootNavigator />
               <CConnection />
+              <View>hello</View>
             </View>
           </ThemeProvider>
         </Provider>
