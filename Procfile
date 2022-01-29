@@ -1,1 +1,1 @@
-web: react-native start
+web: npx serve web-build
