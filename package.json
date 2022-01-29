@@ -7,9 +7,8 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint.",
-    "build": "expo build:web"
-  },
+    "lint": "eslint."
+     },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.12.1",
     "@fortawesome/pro-light-svg-icons": "^5.12.1",
