@@ -1,1 +1,1 @@
-web: npx serve bookit-app-master
+web: npx serve react-native start
