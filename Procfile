@@ -1,1 +1,1 @@
-web: npx serve react-native start
+web: react-native start
